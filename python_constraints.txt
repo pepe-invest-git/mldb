@@ -63,7 +63,7 @@ ipython-genutils==0.1.0
 ipywidgets==5.2.2
 j2cli==0.3.1.post0
 jdcal==1.2
-Jinja2==2.9.4
+Jinja2==2.11.3
 jsonschema==2.5.1
 lz4==0.7.0
 Markdown==2.6.5
