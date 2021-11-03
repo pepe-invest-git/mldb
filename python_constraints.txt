@@ -97,7 +97,7 @@ pytz==2015.7
 PyYAML==3.11
 pyzmq==16.0.2
 qtconsole==4.2.1
-requests==2.9.1
+requests==2.20.0
 requests-toolbelt==0.6.0
 scandir==1.4
 simplegeneric==0.8.1
