@@ -111,5 +111,5 @@ twine==1.6.5
 urllib3==1.14
 wcwidth==0.1.7
 websocket-client==0.40.0
-wheel==0.29.0
+wheel==0.38.1
 widgetsnbextension==1.2.6

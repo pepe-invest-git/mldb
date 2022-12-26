@@ -17,7 +17,7 @@ mccabe==0.4.0
 pep8==1.7.0
 pyflakes==1.0.0
 twine==1.6.5
-wheel==0.29.0
+wheel==0.38.1
 
 # Docker images
 docker-squash==1.0.4
